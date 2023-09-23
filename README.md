@@ -72,3 +72,7 @@ deploy - https://vs12-front-styled-components-task01-jbg63evvm-felipeselau.verce
 repo - https://github.com/felipeselau/vs12-front-angular-task01
 
 deploy - https://sons-of-anarchy.vercel.app
+
+### Consulta CEP
+
+repo - https://github.com/felipeselau/consulta-cep
